@@ -6,11 +6,11 @@
 The current repository contains the main files describing the paper *Breaking Bad? Semantic Versioning and Impact of Breaking Changes in Maven Central* submitted to the Journal-First Papers track at the International Conference on Software Engineering (ICSE) 2023.
 
 
-### Table of Contents
+## Table of Contents
 - [Authors](#Authors)
 - [Original Paper](#Original-Paper)
 - [Repository's Content](#Repository's-Content)
-
+- [License](#License)
 
 ## Authors
 - Lina Ochoa: [l.m.ochoa.venegas \<at> tue.nl](mailto:l.m.ochoa.venegas@tue.nl)
